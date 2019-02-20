@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-02-20T13:52:04.374-08:00
+  initializedAtString: 2019-02-20T13:33:27.429-08:00
+  log:
+  - commitID: 0a54b2d38ef643ba8507c64f2bae78d783926251
+    mergeA: 
+    mergeB: 
+    authorName: stcameron
+    authorEmail: 39077828+stcameron@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create Unity Animations
+    description: Create Unity Animations
+    timeString: 2019-02-20T13:12:27.000-08:00
+    commitTimeString: 2019-02-20T13:12:27.000-08:00
+    changes:
+    - path: Unity Animations
+      fullPath: C:\Users\Steven\Desktop\Unity Animations
+      projectPath: ..\..\Unity Animations
+      originalPath: 
+      status: 4
+      staged: 0
